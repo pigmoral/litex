@@ -208,6 +208,7 @@ class TangDynastyToolchain(GenericToolchain):
 
         devices = {
             "DR1V90MEG484" :[ "dr1_90", "DR1", "DR1V90MEG484" ],
+            "EG4D20EG176" :[ "eagle_s20", "EG4", "EG4D20EG176" ],
             "EG4S20BG256" :[ "eagle_s20", "EG4", "BG256" ],
         }
 
